@@ -1,0 +1,26 @@
+/* .row>div{
+    outline:2px solid #000;
+    background-color: aqua;
+}
+.container{
+    background-color: black;
+} */
+/* .nav-pills .nav-link.active{
+    background-color: green;
+}
+.nav-pills .nav-link.active:hover{
+    background-color: yellow;
+} */
+/* .navbar-toggler-icon{
+    background-color: white !important;
+} */
+#progression>div{
+    outline: 0 !important;
+}
+.progress{
+    background-color: #ccc !important;
+}
+.carousel-inner,
+.carousel-item{
+    height: 500px;
+}
